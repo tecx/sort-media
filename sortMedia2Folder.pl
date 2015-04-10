@@ -286,6 +286,7 @@ sub useFileNameDate {
 	my $d;
 	my $date;
 
+	# Dropbox auto-naming
 	# Example: 2015-01-03 02.32.06.jpeg
 	if ($fname =~ /^(\d\d\d\d)\-(\d\d)\-(\d\d)/) {
 		($y, $m, $d) = ($1, $2, $3);
