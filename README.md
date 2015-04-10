@@ -19,6 +19,8 @@ for more uploads.
 **Mobile** ==Dropbox==> **PC** ==Script==> **LocalHD** ==BackupSoftware==> **ExternamHD**
 
 ### Files Included
-*sortMedia2Folder.pl - The actual script that perform the task.
-*sortDropbox2MasterCopy.csh - A wrapper that simplify the call in the crontab.
-*crontab - A sample crontab as example.
+| Files                      | Description                                      |
+|----------------------------|--------------------------------------------------|
+| sortMedia2Folder.pl        | The actual script that perform the task.         |
+| sortDropbox2MasterCopy.csh | A wrapper that simplify the call in the crontab. |
+| crontab                    | A sample crontab as example.                     |
